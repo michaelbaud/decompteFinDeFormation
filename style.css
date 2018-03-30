@@ -1,0 +1,16 @@
+body {
+	display: flex;
+	height: 100vh;
+}
+
+#countDown {
+	margin: auto;
+	padding: 80px;
+	color: #fff;
+	font-size: 2em;
+	text-align: center;
+	background-color: #949494FF;
+	border: 1px solid #6F6F6FFF;
+	box-shadow: #6F6F6FFF 0px 10px 20px;
+	border-radius: 20px;
+}
